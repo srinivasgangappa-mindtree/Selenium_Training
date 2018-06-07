@@ -16,7 +16,7 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class ExecuteScenarios extends BaseTest
 {
-	//Method to execute the Test
+	//Method to execute the Test commit changes
 	public void executetest(String Scenario, ExtentTest testReport) throws Exception
 	{
 		switch(Scenario)
